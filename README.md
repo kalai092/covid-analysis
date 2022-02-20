@@ -7,6 +7,7 @@
 1. src/covid-analysis-main.py
 
 It's a batch processing script for Covid-19 Analysis
+
 Arguments:
 1. Input date: Date (yyyy-mm-dd) that we are going to process the data.
 2. input data path: path to the input data set
