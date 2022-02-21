@@ -19,7 +19,7 @@ Note: Since we are doing aggregations based on the country and state we have onl
 
 
 2. src/covid-analysis-main_streaming.py
-It's a spark streaming script for Covid-19 analysis, it's a partial one. As of now, it will only return to the top 10 countries for the streaming data.
+It's a spark streaming script for Covid-19 analysis, it's a partial one. As of now, it will only return top 10 countries for the streaming data.
 
 Arguments:
 
