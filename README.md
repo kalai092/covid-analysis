@@ -13,7 +13,7 @@ Arguments:
 2. input data path: path to the input data set
 
 eg.
-spark-submit F:\\Cars.com\\covid-analysis\\src\\covid-analysis-main.py '2021-01-30' 'F:\\test\\COVID-19-master\\csse_covid_19_data\\csse_covid_19_daily_reports'
+spark-submit F:\\kalai\\covid-analysis\\src\\covid-analysis-main.py '2021-01-30' 'F:\\test\\COVID-19-master\\csse_covid_19_data\\csse_covid_19_daily_reports'
 
 Note: Since we are doing aggregations based on the country and state we have only considered not-null rows of these two columns.
 
